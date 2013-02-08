@@ -72,13 +72,13 @@ h6{font-size:1.2em} /*Can be changed*/
 
 #####Change the background color of a section / row
 
-.some-extra-class{background-color:#000 /*color can be edited*/}
+`.some-extra-class{background-color:#000 /*color can be edited*/}`
 
 -------------------------------------------------
 
 #####remove the social section
 
-#top-social {display:none}
+`#top-social {display:none}`
 
 -------------------------------------------------
 
