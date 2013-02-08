@@ -272,4 +272,56 @@ time {display:none !important;}
 
 ------------------------------------------------
 
-#####
+##### To hide date on portfolio items but keep the date on blog items
+
+.description time {display:none}
+
+-------------------------------------------------
+
+##### Bottom address to be aligned with the address icon
+
+.adress-icon p {position: relative;}
+
+-------------------------------------------------
+
+##### To change category tile colors and/or icon
+
+style="background: #90a7b1" <?php } else { ?> style="background: #57bae8"
+
+-------------------------------------------------
+
+##### To remove the border from the .text-block class
+
+.text-block {border:none !important;}
+
+-------------------------------------------------
+
+##### To make logo bigger
+
+#header .logo {width: 30%;}
+#topmenu { width: 68%; }
+
+-------------------------------------------------
+
+##### To move the menu boxes to the right
+
+#topmenu .tiled-menu {float:right}
+
+-------------------------------------------------
+
+##### To move social icons to the bottom
+
+#top-social {position: relative;
+top: 60px;
+z-index: 100;}
+
+---------------------------------------------------
+
+##### To remove socials icons
+
+#top-social {display:none}
+
+--------------------------------------------------
+
+
+
