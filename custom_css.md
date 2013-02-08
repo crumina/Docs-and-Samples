@@ -142,4 +142,134 @@ body.home #body-wrapper {background-position:center}
 
 --------------------------------------------------
 
+#####change the size of the theme’s tiled category 
 
+.tile.category {
+width: 145px;
+height: 145px;
+}
+
+---------------------------------------------------
+
+#####Change post date background
+
+article time {backgound:# some other color in hex}
+
+---------------------------------------------------
+
+#####decrease the height of the black background
+
+#footer {
+padding-top: 60px; /*Can be changed for other value*/
+}
+
+---------------------------------------------------
+
+#####To make menu titles bigger
+
+.tiled-menu > li > .menu-item-wrap {
+width: 150px;
+height: 150px;
+}
+
+--------------------------------------------------
+
+#####to disable the date and author of the post on all posts
+
+time {display:none;}
+
+--------------------------------------------------
+
+#####to disable breadcrumbs 
+
+<div class="breadcrumbs"><?php if (function_exists('dimox_breadcrumbs')) dimox_breadcrumbs(); ?></div>
+
+--------------------------------------------------
+
+#####Widget icons
+
+.info-item-alt .inner-text{
+    background: url("../icons/pencil.png") 0 0 no-repeat;
+}
+
+.build-block-title{
+    background: url("../icons/check.png") 0 0 no-repeat;
+}
+
+---------------------------------------------------
+
+#####Change footer font color
+
+#darkf, #darkf p {
+color: #b8d2e3;
+}
+
+--------------------------------------------------
+
+#####to change the font size, location, color of the main menu text
+
+.tiled-menu > li > .menu-item-wrap > a {
+position: absolute;
+width: 100%;
+height: 100%;
+left: 0;
+top: 0;
+padding: 8px 13px;
+color: white;
+}
+
+--------------------------------------------------
+
+#####remove the google map at the contacts page
+
+#map{display:none;}
+
+-------------------------------------------------
+
+#####To change background color of the exerpts
+
+.team-brick .bg {
+background: #F0F3F4;
+}
+
+-------------------------------------------------
+
+#####to change the overlay color that shows when hovering over one of the post slider images
+
+.wrap .item  .description {
+    background-color: rgba(87,186,232,.87);
+}
+
+.wrap .item.even .description {
+    background-color: rgba(108,190,66,.87);
+}
+
+-------------------------------------------------
+
+#####to remove expanded panel (social icons) from template
+
+#show-social {display:none}
+
+-------------------------------------------------
+
+#####scroll bar of post slider
+
+.wrap { height: 545px;}
+.wrap { margin-bottom: **px;}
+
+------------------------------------------------
+
+##### To remove promo icon
+
+.promo{padding-left:0} 
+.promo .icon {display:none;}
+
+------------------------------------------------
+
+##### To remove date, time on the posts at the main page
+
+time {display:none !important;}
+
+------------------------------------------------
+
+#####
