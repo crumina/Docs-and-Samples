@@ -45,13 +45,13 @@ font-size: 16px; /*Value can be changed*/
 #####Increase font size of titles within post content
 
 `
-.content article .entry-content {
-h1{font-size:3.5 em} /*Can be changed*/
-h2{font-size:3 em} /*Can be changed*/
-h3{font-size:2.5 em} /*Can be changed*/
-h4{font-size:2 em} /*Can be changed*/
-h5{font-size:1.5 em} /*Can be changed*/
-h6{font-size:1.2em} /*Can be changed*/
+#content article .entry-content {
+h1{font-size:3.5 em}
+h2{font-size:3 em}
+h3{font-size:2.5 em}
+h4{font-size:2 em}
+h5{font-size:1.5 em}
+h6{font-size:1.2em}
 
 }
 `
