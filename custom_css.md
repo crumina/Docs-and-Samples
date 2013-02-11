@@ -320,5 +320,19 @@ z-index: 100;}`
 
 --------------------------------------------------
 
+##### To align text in the menu to the right
+
+`.tiled-menu > li > .menu-item-wrap {
+text-align: right;
+}`
+
+----------------------------------------------------
+
+##### To change the background colour and font colour of the sidebar on the single posts
+
+`#right-sidebar {
+background: # 000 /*Can be changed*/
+color: red /*Can be changed*/
+}`
 
 
