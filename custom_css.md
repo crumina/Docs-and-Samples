@@ -335,4 +335,9 @@ background: # 000 /*Can be changed*/
 color: red /*Can be changed*/
 }`
 
+##### To hide popup information box
+
+`.item .description {
+display:none;
+}`
 
