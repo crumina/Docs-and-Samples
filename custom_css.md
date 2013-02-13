@@ -341,3 +341,16 @@ color: red /*Can be changed*/
 display:none;
 }`
 
+-------------------------------------------------
+
+##### To make the tiles text font bigger
+
+`#content .text-big-left {font-size: 24px;}`
+
+-------------------------------------------------
+
+##### To decrease the padding (top & bottom) of an info row
+
+`.aq-block-aq_info_row_block {margin:5px 0}`
+
+--------------------------------------------------
