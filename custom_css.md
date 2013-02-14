@@ -369,3 +369,21 @@ margin-bottom: 10px; /*Can be changed*/
 }`
 
 ----------------------------------------------------
+
+#####To change the icon in block "Recent works"
+
+`.icon.recent {
+background: url("../icons/recent.png") right bottom no-repeat;
+}`
+
+----------------------------------------------------
+
+#####To change "Color of recent works hover" 
+
+`.works-list .item .description {
+background: rgba(87,186,232,.87);
+}`
+
+-----------------------------------------------------
+
+
