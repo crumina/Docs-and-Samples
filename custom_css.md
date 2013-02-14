@@ -354,3 +354,18 @@ display:none;
 `.aq-block-aq_info_row_block {margin:5px 0}`
 
 --------------------------------------------------
+
+#####To remove the icons to all widget
+
+`.widget {background:none !important}`
+
+---------------------------------------------------
+
+#####To make the title of widget nearer to the text of widget
+
+`aside .widget h3 {
+padding-left: 0;
+margin-bottom: 10px; /*Can be changed*/
+}`
+
+----------------------------------------------------
