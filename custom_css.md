@@ -395,3 +395,13 @@ background: rgba(87,186,232,.87);
 #####To change the color and size of the submenu
 
 `
+
+----------------------------------------------------
+
+##### To delete the page title and links on posts
+
+`#page-title {
+display: none;
+}`
+
+--------------------------------------------------
