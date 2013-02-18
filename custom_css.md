@@ -421,3 +421,15 @@ add_filter( 'excerpt_length', 'custom_excerpt_length', 999 );`
 article header {margin-left:0}`
 
 -----------------------------------------------------------------
+
+#####To stop zooming of the featured images
+
+`.portfolio-item:hover img, .item:hover img {
+-moz-transform: none;
+-webkit-transform: none;
+-o-transform: none;
+-ms-transform: none;
+transform: none;
+}`
+
+-----------------------------------------------------------------
