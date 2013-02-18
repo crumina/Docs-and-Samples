@@ -414,3 +414,10 @@ display: none;
 add_filter( 'excerpt_length', 'custom_excerpt_length', 999 );`
 
 -----------------------------------------------------------------
+
+##### To delete all date mentions on pages or posts
+
+`time, article time {display:none;}
+article header {margin-left:0}`
+
+-----------------------------------------------------------------
