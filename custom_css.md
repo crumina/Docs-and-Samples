@@ -293,7 +293,7 @@ background: #F0F3F4;
 
 -------------------------------------------------
 
-##### To make logo bigger
+##### To make more space for logo
 
 `#header .logo {width: 30%;}`
 `#topmenu { width: 68%; }`
