@@ -441,3 +441,11 @@ width: 1100px;
 }`
 
 -------------------------------------------------------------------
+
+##### To change color and size of submenus
+
+`.tiled-menu.drop li.menu-portfolio ul {
+max-width:250px; /*or your value*/
+}`
+
+--------------------------------------------------------------------
