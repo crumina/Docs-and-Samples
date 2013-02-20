@@ -458,4 +458,11 @@ max-width:250px; /*or your value*/
 
 #####
 
+##### To change font size of Info Row
 
+`.aq-block-aq_info_row_block h2 {
+color: red;
+font-size:50px;
+}`
+
+---------------------------------------------------------------
