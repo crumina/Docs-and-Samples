@@ -472,3 +472,10 @@ font-size:50px;
 `#ascrail2000-hr>div {background:red !important}`
 
 ----------------------------------------------------------
+
+##### To remove the date of the post in the slideshow
+
+`time, article time {display:none;}
+article header {margin-left:0}`
+
+----------------------------------------------------------------------
