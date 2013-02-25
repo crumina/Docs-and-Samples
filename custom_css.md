@@ -479,3 +479,9 @@ font-size:50px;
 article header {margin-left:0}`
 
 ----------------------------------------------------------------------
+
+##### To align pictures of different size in slider
+
+`.wrap .item>img {min-height:240px;}`
+
+-----------------------------------------------------------------
