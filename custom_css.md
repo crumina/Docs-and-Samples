@@ -485,3 +485,9 @@ article header {margin-left:0}`
 `.wrap .item>img {min-height:240px;}`
 
 -----------------------------------------------------------------
+
+##### To reduce height of the footer
+
+`#footer {padding-top:0}`
+
+-------------------------------------------------------------------------
