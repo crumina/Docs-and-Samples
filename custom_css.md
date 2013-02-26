@@ -491,3 +491,17 @@ article header {margin-left:0}`
 `#footer {padding-top:0}`
 
 -------------------------------------------------------------------------
+
+#### To change the type of hover box appearing (fade in and out on hovering)
+
+`.item .description.disp {
+top: 0;
+opacity: 0;
+}
+ 
+.item:hover .description.disp {
+top: 0;
+opacity: 1;
+}`
+
+--------------------------------------------------------------------------
