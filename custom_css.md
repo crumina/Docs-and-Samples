@@ -456,7 +456,11 @@ max-width:250px; /*or your value*/
 
 --------------------------------------------------------------
 
-#####
+#####To remove date on the pages with grid posts
+
+`#grid-posts article header {margin-left: 0;}`
+
+-----------------------------------------------------------------------
 
 ##### To change font size of Info Row
 
