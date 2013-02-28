@@ -496,7 +496,7 @@ article header {margin-left:0}`
 
 -------------------------------------------------------------------------
 
-#### To change the type of hover box appearing (fade in and out on hovering)
+##### To change the type of hover box appearing (fade in and out on hovering)
 
 `.item .description.disp {
 top: 0;
@@ -509,3 +509,9 @@ opacity: 1;
 }`
 
 --------------------------------------------------------------------------
+
+##### To change colour of submenu on hovering
+
+`.tiled-menu.drop ul li:hover { background:red; /*or your value*/ }`
+
+------------------------------------------------------------------------------------
