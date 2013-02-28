@@ -394,7 +394,9 @@ background: rgba(87,186,232,.87);
 
 #####To change the color and size of the submenu
 
-`
+`.tiled-menu.drop li.menu-portfolio ul {
+max-width:250px; /*or your value*/
+}`
 
 ----------------------------------------------------
 
