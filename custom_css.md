@@ -517,3 +517,15 @@ opacity: 1;
 `.tiled-menu.drop ul li:hover { background:red; /*or your value*/ }`
 
 ------------------------------------------------------------------------------------
+
+##### To remove the icons appearing when using a widget
+
+`.widget {background:none !important}`
+
+------------------------------------------------------------------------------
+
+##### To make the title of widgets a bit near to the text/content of the widgets 
+
+`aside .widget h3 { padding-left: 0; margin-bottom: 10px; /*Can be changed*/ }`
+
+-----------------------------------------------------------------------------
