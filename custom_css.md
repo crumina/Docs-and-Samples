@@ -514,7 +514,7 @@ opacity: 1;
 
 ##### To change colour of submenu on hovering
 
-`.tiled-menu.drop ul li:hover { background:red; /*or your value*/ }`
+`.tiled-menu.drop ul li:hover { background:red !important; }`
 
 ------------------------------------------------------------------------------------
 
