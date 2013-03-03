@@ -535,3 +535,9 @@ opacity: 1;
 `.entry-date, time {display:none !important;}`
 
 ---------------------------------------------------------
+
+##### To disable date under the images on page
+
+`.folio-info time {display:none;}`
+
+--------------------------------------------------------
