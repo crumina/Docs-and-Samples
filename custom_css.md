@@ -529,3 +529,9 @@ opacity: 1;
 `aside .widget h3 { padding-left: 0; margin-bottom: 10px; /*Can be changed*/ }`
 
 -----------------------------------------------------------------------------
+
+##### To remove time and date from all posts
+
+`.entry-date, time {display:none !important;}`
+
+---------------------------------------------------------
