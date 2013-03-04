@@ -541,3 +541,15 @@ opacity: 1;
 `.folio-info time {display:none;}`
 
 --------------------------------------------------------
+
+##### To decrease the height of the map
+
+`#map {height: 300px;} `
+
+--------------------------------------------------------------
+
+#####to remove the automatic text from the menu tiles
+
+`.tiled-menu>li>.menu-item-wrap>a { text-indent:-999em}`
+
+-----------------------------------------------------------------------
