@@ -553,3 +553,7 @@ opacity: 1;
 `.tiled-menu>li>.menu-item-wrap>a { text-indent:-999em}`
 
 -----------------------------------------------------------------------
+
+##### To align images in sortable portfolio 
+
+`.sort-panel ul {height:30px}`
