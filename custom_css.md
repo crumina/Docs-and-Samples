@@ -557,3 +557,5 @@ opacity: 1;
 ##### To align images in sortable portfolio 
 
 `.sort-panel ul {height:30px}`
+
+------------------------------------------------------------------------------------------
