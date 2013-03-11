@@ -573,3 +573,11 @@ margin-right:6px;
 `.menu-item-wrap .link-text {text-indent:-100em;}`
 
 ----------------------------------------------------------------
+
+##### To adjust size of embed video
+
+`object, embed {
+height: 400px;
+}`
+
+---------------------------------------------------------------------
