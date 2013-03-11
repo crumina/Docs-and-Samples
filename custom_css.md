@@ -590,3 +590,11 @@ padding-bottom: 15px;
 }`
 
 ---------------------------------------------------------------------
+
+##### To align video on the page
+
+`.wpb_video_widget .wpb_wrapper .wpb_video_wrapper {
+padding-top: 0 !important;
+}`
+
+------------------------------------------------------------------
