@@ -581,3 +581,12 @@ height: 400px;
 }`
 
 ---------------------------------------------------------------------
+
+##### To decrease space between widgets in the sidebar
+
+`aside .widget {
+margin-bottom: 15px;
+padding-bottom: 15px;
+}`
+
+---------------------------------------------------------------------
