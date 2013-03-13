@@ -606,3 +606,17 @@ float: none;
 }`
 
 -----------------------------------------------------------
+
+##### To remove gap between the columns in pricing tables
+
+`[class*="column"]+[class*="column"]:last-child {
+    float: left;
+}`
+
+---------------------------------------------------------------------------
+
+##### To remove "Call to action" button from the page
+
+`.call-to .button {display:none}`
+
+-----------------------------------------------------------------------
