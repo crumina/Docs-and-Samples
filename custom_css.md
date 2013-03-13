@@ -620,3 +620,9 @@ float: none;
 `.call-to .button {display:none}`
 
 -----------------------------------------------------------------------
+
+##### To change font size in info block
+
+`.aq-block-aq_info_row_block {min-height:80px}`
+
+-----------------------------------------------------------
