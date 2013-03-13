@@ -598,3 +598,11 @@ padding-top: 0 !important;
 }`
 
 ------------------------------------------------------------------
+
+##### To remove a slim line in the drop down menus
+
+`.tiled-menu.drop li ul li {
+float: none;
+}`
+
+-----------------------------------------------------------
