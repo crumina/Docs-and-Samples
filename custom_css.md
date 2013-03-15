@@ -552,6 +552,8 @@ opacity: 1;
 
 `.tiled-menu>li>.menu-item-wrap>a { text-indent:-999em}`
 
+`.tiled-menu>li>.menu-item-wrap .link-text{display:none;}`
+
 -----------------------------------------------------------------------
 
 ##### To align images in sortable portfolio 
