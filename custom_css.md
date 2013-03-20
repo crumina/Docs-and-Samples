@@ -552,7 +552,7 @@ opacity: 1;
 
 `.tiled-menu>li>.menu-item-wrap>a { text-indent:-999em}`
 
-`.tiled-menu>li>.menu-item-wrap .link-text{display:none;}`
+`.tiled-menu>li>.menu-item-wrap .link-text {display:none !important;}`
 
 -----------------------------------------------------------------------
 
@@ -635,3 +635,14 @@ float: none;
 
 ------------------------------------------------------------------------------
 
+##### To enable description on the "Portfolio 4 Columns"
+
+`#portfolio-page .item .description {bottom:-65%}`
+
+---------------------------------------------------------------------------------------------------------
+
+##### To adjust the right size of the product thumbnails
+
+`.woocommerce-page #content .related ul li.product {width:auto;}`
+
+-------------------------------------------------------------------------------------------------
