@@ -657,4 +657,6 @@ float: none;
 
 `.wrap .item .description { background: none; }`
 
+`.wrap .item.even .description { background: none; }`
+
 ------------------------------------------------------------------------------
