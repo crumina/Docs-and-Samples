@@ -660,3 +660,9 @@ float: none;
 `.wrap .item.even .description { background: none; }`
 
 ------------------------------------------------------------------------------
+
+##### To remove RSS icon from the social panel
+
+`.soc-icons a.rss {display:none}`
+
+---------------------------------------------------------------------------
