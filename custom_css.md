@@ -674,3 +674,9 @@ float: none;
 `article time { background: #b5c2ca; }`
 
 ------------------------------------------------------------------------------------------
+
+##### To change background image ("no featured image")in slider, when there is no featured image in post
+
+`#aq-block-aq_hslider_posts_block .item-1 .description { background-color: rgba(108,190,66,.87);}`
+
+-----------------------------------------------
