@@ -666,3 +666,11 @@ float: none;
 `.soc-icons a.rss {display:none}`
 
 ---------------------------------------------------------------------------
+
+##### To change time and date color box/font in blog
+
+`article time { color: #52b6e6" }`
+
+`article time { background: #b5c2ca; }`
+
+------------------------------------------------------------------------------------------
