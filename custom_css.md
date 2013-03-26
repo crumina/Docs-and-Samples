@@ -700,3 +700,13 @@ float: none;
 `.page-id-3474. wpb_text_column h2 { font-size: 65px; line-height: 1.45; }`
 
 ------------------------------------------------------------------------------------------------
+
+##### To move the slider posts title on top
+
+`.item .description p { padding: 0; }`
+
+##### To remove the icons from the slider posts hover box
+
+`.wrap.no-scroll .item .description { background: #642d91; }`
+
+----------------------------------------------------------------------------------------
