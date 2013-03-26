@@ -680,3 +680,9 @@ float: none;
 `#aq-block-aq_hslider_posts_block .item-1 .description { background-color: rgba(108,190,66,.87);}`
 
 -----------------------------------------------
+
+##### Change colors of the tiled category list widget
+
+`.tile-category-list .odd { background-color: #192ea9 !important; } .tile-category-list .even { background-color: #c3ddea !important; }`
+
+-------------------------------------------------------------
