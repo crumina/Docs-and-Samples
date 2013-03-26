@@ -686,3 +686,17 @@ float: none;
 `.tile-category-list .odd { background-color: #192ea9 !important; } .tile-category-list .even { background-color: #c3ddea !important; }`
 
 -------------------------------------------------------------
+
+##### PLace the menu titles in the center of the menu tile
+
+`.tiled-menu>li>.link-text {position:absolute; bottom:0; width:100%; display:block; text-align:center;}`
+
+--------------------------------------------------------------------------------------
+
+##### To change tiles and font size for a particular page
+
+`.page-id-3474 .tile.mini { width: 140px; height: 140px; }`
+
+`.page-id-3474. wpb_text_column h2 { font-size: 65px; line-height: 1.45; }`
+
+------------------------------------------------------------------------------------------------
