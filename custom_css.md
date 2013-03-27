@@ -710,3 +710,9 @@ float: none;
 `.wrap.no-scroll .item .description { background: #642d91; }`
 
 ----------------------------------------------------------------------------------------
+
+##### To change the font family on slider titles
+
+`.scroll-box .item .description h4 {color: #4D4D4D; font-size: 20px; font-family: "Signika"; }`
+
+-------------------------------------------------------------------------------------------------------------------
