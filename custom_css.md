@@ -716,3 +716,9 @@ float: none;
 `.scroll-box .item .description h4 {color: #4D4D4D; font-size: 20px; font-family: "Signika"; }`
 
 -------------------------------------------------------------------------------------------------------------------
+
+##### To put text description on slider item so that it is not touching the border of the slider box
+
+`.wrap.no-scroll .item .description p { padding-left: 10px; padding-right: 5px; }`
+
+----------------------------------------------------------------
