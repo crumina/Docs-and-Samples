@@ -402,7 +402,8 @@ background: rgba(87,186,232,.87);
 
 ##### To change the color and background of the submenus
 
-`.tiled-menu.drop li ul li a { font-size: 14px; color: #28d733; background: red; }`
+`.tiled-menu.drop li.menu-portfolio ul li { background: red !important; }`
+`.tiled-menu.drop li.menu-portfolio ul li a {font-size: 14px; color: #28d733; }`
 
 ------------------------------------------------------------------------------------------------------------------------------
 
