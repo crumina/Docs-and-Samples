@@ -735,3 +735,8 @@ float: none;
 `.wrap.no-scroll .item .description p { padding-left: 10px; padding-right: 5px; }`
 
 ----------------------------------------------------------------
+##### To change the background color of time and date boxe in latest post widget
+
+`#darkf time {background: #191ba9; }`
+
+
