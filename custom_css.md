@@ -394,11 +394,23 @@ background: rgba(87,186,232,.87);
 
 #####To change the color of the submenu
 
-`.tiled-menu.drop li.menu-portfolio ul li {
+`.tiled-menu.drop li.menu-portfolio ul li a {
  background: #57bae8;
  }`
 
 ----------------------------------------------------
+
+##### To change the color and background of the submenus
+
+`.tiled-menu.drop li ul li a { font-size: 14px; color: #28d733; background: red; }`
+
+------------------------------------------------------------------------------------------------------------------------------
+
+##### To change the color and background of the submenus
+
+`.tiled-menu.drop li.menu-portfolio ul li a { font-size: 14px; color: #28d733; background: #57bae8; }`
+
+--------------------------------------------------------------------------------------------------------------
 
 ##### To delete the page title and links on posts
 
