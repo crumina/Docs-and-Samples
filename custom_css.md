@@ -739,4 +739,18 @@ float: none;
 
 `#darkf time {background: #191ba9; }`
 
+##### To put layer slider close to the main slider
+
+`.widget { margin-bottom: 0px; }`
+`.aq-block { margin: 2px 0; }`
+
+------------------------------------------------------------------------------------------
+
+##### To center the text in the table vertically
+
+`table tbody tr td {
+  vertical-align: middle;
+}`
+
+----------------------------------------------------------------------------------------
 
