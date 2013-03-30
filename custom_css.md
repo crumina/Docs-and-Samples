@@ -573,6 +573,8 @@ opacity: 1;
 
 `.sort-panel ul {height:30px}`
 
+`#portfolio-page .sort-panel {height:30px}`
+
 ------------------------------------------------------------------------------------------
 
 ##### To align "Send message" Button
