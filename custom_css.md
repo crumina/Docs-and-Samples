@@ -271,7 +271,7 @@ background: #F0F3F4;
 
 ##### To hide date on portfolio items but keep the date on blog items
 
-`.description time {display:none}`
+`.folio-info time {display:none;}`
 
 -------------------------------------------------
 
