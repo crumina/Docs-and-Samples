@@ -771,6 +771,6 @@ float: none;
 ##### Boxed layout
 
 `#body-wrapper {
-margin: 15px auto 45px auto;`
+margin: 15px auto 45px auto;}`
 
 ------------------------------------------------------------------------------
