@@ -774,3 +774,12 @@ float: none;
 margin: 15px auto 45px auto;}`
 
 ------------------------------------------------------------------------------
+
+##### To change the font family
+
+`h1,h2,h3,h4,h5,h6 {
+font-family: "font-family: Verdana, Geneva, sans-serif;"; }
+body,div,p {
+font-family: Verdana, Geneva, sans-serif;}`
+
+-------------------------------------------------------------------------------------------------
