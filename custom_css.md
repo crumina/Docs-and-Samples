@@ -787,3 +787,9 @@ font-family: Verdana, Geneva, sans-serif;}`
 ##### To align the rows in Blog with grid items
 
 `#grid-posts article {height: 602px;}`
+
+##### To align info blocks
+
+`.info-item, .info-item-alt {height: 200px;}`
+
+-----------------------------------------------------------------------------------------------------
