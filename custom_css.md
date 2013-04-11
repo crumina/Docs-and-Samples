@@ -793,3 +793,9 @@ font-family: Verdana, Geneva, sans-serif;}`
 `.info-item, .info-item-alt {height: 200px;}`
 
 -----------------------------------------------------------------------------------------------------
+
+#####To change font size of call to action button
+
+`.wpb_button {font-size: 20px !important; }`
+
+-------------------------------------------------------------
