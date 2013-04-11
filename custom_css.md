@@ -799,3 +799,12 @@ font-family: Verdana, Geneva, sans-serif;}`
 `.wpb_button {font-size: 20px !important; }`
 
 -------------------------------------------------------------
+
+##### To decrease the distance between the submenu elements
+
+`.tiled-menu.drop li ul li a {
+ min-height: 35px;
+line-height: 35px;
+}`
+
+-------------------------------
