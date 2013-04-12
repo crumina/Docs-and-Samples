@@ -1,0 +1,3 @@
+##### Wide layout for home page while other pages are boxed
+
+`body.home .boxed_lay {max-width: 100%;}`
