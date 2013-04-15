@@ -808,3 +808,9 @@ line-height: 35px;
 }`
 
 -------------------------------
+
+##### To change te font size on the portfolio pages
+
+`#portfolio-page p { font-size: 15px;}`
+
+---------------------------------------------------------------
