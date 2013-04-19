@@ -814,3 +814,19 @@ line-height: 35px;
 `#portfolio-page p { font-size: 15px;}`
 
 ---------------------------------------------------------------
+
+##### Make menu tiles transparent
+
+`.tiled-menu>li>.menu-item-wrap>a {background-color:transparent !important}`
+
+`.tiled-menu>li>.menu-item-wrap>a { color: black !important; }`
+
+----------------------------------------------------------------
+
+##### Make drop downs transparent
+
+`.tiled-menu.drop li ul li a {color: black;}`
+
+`.tiled-menu.drop li ul li { background: transparent; }`
+
+----------------------------------------------------------------
