@@ -836,3 +836,11 @@ line-height: 35px;
 `.tiled-menu.drop li ul li {background: red;}`
 
 -------------------------------------------------------------
+
+##### To change the font size of Info Row
+
+`.promo h2 {
+font-size: 40px;
+}`
+
+--------------------------------------------------------------------
