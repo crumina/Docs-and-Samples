@@ -19,8 +19,9 @@
 
 ##### To get rid of the dates on all posts, widgets
 
-`#layout article .dopinfo, #layout article time, #layout .small-news time, #layout .post-info, #layout .post time, #layout .post .row .columns time, article .dopinfo, article time {display:none !important;}
-#layout .small-news .entry-summary, article .dopinfo, article .entry-title{margin-left:0}`
+`#layout article .dopinfo, #layout article time, #layout .small-news time, #layout .post-info, #layout .post time, #layout .post .row .columns time, article .dopinfo, article time {display:none !important;}`
+
+`#layout .small-news .entry-summary, article .dopinfo, article .entry-title{margin-left:0}`
 
 --------------------------------------------
 
