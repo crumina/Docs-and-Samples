@@ -844,3 +844,10 @@ font-size: 40px;
 }`
 
 --------------------------------------------------------------------
+
+##### Remove page title and breadcrumbs from page
+
+`#page-title h1, .breadcrumbs {display: none !important; }`
+`a.back {background: none; }`
+
+-----------------------------------------------
