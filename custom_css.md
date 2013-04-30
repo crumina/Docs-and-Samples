@@ -851,3 +851,11 @@ font-size: 40px;
 `a.back {background: none; }`
 
 -----------------------------------------------
+
+##### To stop the hover box to slide on mouse hovering
+
+`.item .description.disp {
+bottom: -70% !important;
+}`
+
+--------------------------------------------------------------
