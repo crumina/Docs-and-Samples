@@ -30,3 +30,11 @@
 `#primary-navigation-1983 > ul {right:0}`
 
 -----------------------------------------------------------
+
+##### Remove "call to action button", leave text
+
+`.al-right .button {display: none; }`
+
+`.al-right { text-align: center; }`
+
+-----------------------------------------------
