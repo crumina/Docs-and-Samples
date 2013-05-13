@@ -859,3 +859,9 @@ bottom: -70% !important;
 }`
 
 --------------------------------------------------------------
+
+##### To extend space between the menu items
+
+`.tiled-menu>li>.menu-item-wrap {margin: 5px; }`
+
+----------------------------------------------------
