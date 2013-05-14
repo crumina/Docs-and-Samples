@@ -44,3 +44,11 @@
 `#logo { width: auto; } `
 
 --------------------------------------------
+
+##### To remove the date buttons from all posts
+
+`.post>time, .post>.row>.columns>time, article time {
+display: none;
+}`
+
+--------------------------------------
