@@ -865,3 +865,10 @@ bottom: -70% !important;
 `.tiled-menu>li>.menu-item-wrap {margin: 5px; }`
 
 ----------------------------------------------------
+
+##### To remove dates from slider description
+
+`.item .description time { display: none; }`
+`.item .description h4 {padding-top: 7px; }`
+
+------------------------------------------------
