@@ -52,3 +52,10 @@ display: none;
 }`
 
 --------------------------------------
+
+##### Remove captcha from the contacts page
+
+`#captcha {display: none; }`
+`#page_feedback img {display: none;}`
+
+-----------------------------------------------
