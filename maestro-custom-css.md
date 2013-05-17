@@ -78,3 +78,11 @@ display: none;
 } `
 
 ---------------------------------------------
+
+##### To remove breadcrumbs from all pages
+
+`.breadcrumbs {
+display: none;
+}`
+
+-----------------------------------------
