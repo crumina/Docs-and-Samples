@@ -59,3 +59,22 @@ display: none;
 `#page_feedback img {display: none;}`
 
 -----------------------------------------------
+
+#####To center image added by the block "Image" in Page Builder
+
+`/* Images */
+.alignleft {
+    float: left;
+    margin: 0 15px 7px 0;
+}`
+`.alignright {
+    float: right;
+    margin: 0 0 7px 15px;
+}`
+`.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+} `
+
+---------------------------------------------
