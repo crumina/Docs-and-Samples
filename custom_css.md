@@ -872,3 +872,9 @@ bottom: -70% !important;
 `.item .description h4 {padding-top: 7px; }`
 
 ------------------------------------------------
+
+##### To remove twitter icon fron all pages
+
+`#twitterbutton, .soc-icons a.tw{display: none; }`
+
+------------------------------------------------------------
