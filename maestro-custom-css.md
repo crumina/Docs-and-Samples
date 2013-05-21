@@ -86,3 +86,9 @@ display: none;
 }`
 
 -----------------------------------------
+
+##### Remove page title from the home page
+
+`.home.page .page-title, a.back {display: none; }`
+
+---------------------------------------------
