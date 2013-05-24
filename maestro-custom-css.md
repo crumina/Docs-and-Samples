@@ -92,3 +92,10 @@ display: none;
 `.home.page .page-title, a.back {display: none; }`
 
 ---------------------------------------------
+
+##### To remove time and date from "recent from portfolio" section
+
+`.folio-item .description .info {display: none;}` 
+`.folio-item .description .title {padding-top: 5px; }`
+
+-----------------------------------------------------
