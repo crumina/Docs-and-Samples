@@ -99,3 +99,9 @@ display: none;
 `.folio-item .description .title {padding-top: 5px; }`
 
 -----------------------------------------------------
+
+##### To change font in vCard widget
+
+`.vcard p {font-family: Georgia, Times, "Times New Roman", serif;}`
+
+-----------------------------------------
