@@ -105,3 +105,9 @@ display: none;
 `.vcard p {font-family: Georgia, Times, "Times New Roman", serif;}`
 
 -----------------------------------------
+
+##### Change text selection color
+
+`::selection { background: #ff6600; color: #fff; text-shadow: none; }`
+
+---------------------------------------
