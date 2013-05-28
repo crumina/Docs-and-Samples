@@ -878,3 +878,13 @@ bottom: -70% !important;
 `#twitterbutton, .soc-icons a.tw{display: none; }`
 
 ------------------------------------------------------------
+
+##### Remove breadcrumbs
+
+`.breadcrumbs {display: none; }`
+
+`#page-title h1 {
+margin-bottom: 10px;
+}`
+
+------------------------------------------------------------------------------------
