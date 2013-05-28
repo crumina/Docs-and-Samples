@@ -888,3 +888,9 @@ margin-bottom: 10px;
 }`
 
 ------------------------------------------------------------------------------------
+
+#####To stop font-size of menu tiles increasing on mouse over
+
+`.tiled-menu.drop li ul li a:hover {font-size: 14px; }`
+
+-------------------------------------------------------
