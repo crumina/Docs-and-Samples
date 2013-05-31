@@ -111,3 +111,11 @@ display: none;
 `::selection { background: #ff6600; color: #fff; text-shadow: none; }`
 
 ---------------------------------------
+
+#####To make current menu text of a certain color
+
+`#top-menu>ul>li.current-menu-item .link-text {color: blue;}`
+`#top-menu>ul>li.current-menu-item>.menu-item-wrap{
+background: none !important;}`
+
+-------------------------------------------------
