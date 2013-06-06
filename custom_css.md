@@ -263,9 +263,11 @@ background: #F0F3F4;
 
 ------------------------------------------------
 
-##### To remove date, time on the posts at the main page
+##### To remove dates from slider description
 
-`time {display:none !important;}`
+`.item .description time { display: none; }`
+`.item .description h4 {padding-top: 7px; }`
+
 
 ------------------------------------------------
 
@@ -866,12 +868,6 @@ bottom: -70% !important;
 
 ----------------------------------------------------
 
-##### To remove dates from slider description
-
-`.item .description time { display: none; }`
-`.item .description h4 {padding-top: 7px; }`
-
-------------------------------------------------
 
 ##### To remove twitter icon fron all pages
 
