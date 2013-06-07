@@ -123,3 +123,10 @@ background: none !important;}`
 #####To hide search form with variant 1 header
 
 `#header.horizontal .form-search {display: none;}`
+
+----------------------------------------------------
+
+#####To place subtitles under tiltes on all widgets
+
+`.widget > .subtitle {top: 21px;}`
+`.widget-title, .widget>.title h3 {line-height: 1; padding-top: 0; padding-bottom: 25px;}`
