@@ -119,3 +119,7 @@ display: none;
 background: none !important;}`
 
 -------------------------------------------------
+
+#####To hide search form with variant 1 header
+
+`#header.horizontal .form-search {display: none;}`
