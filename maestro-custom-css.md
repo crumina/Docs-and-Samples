@@ -130,3 +130,13 @@ background: none !important;}`
 
 `.widget > .subtitle {top: 21px;}`
 `.widget-title, .widget>.title h3 {line-height: 1; padding-top: 0; padding-bottom: 25px;}`
+
+##### To put logo to the center of the header
+
+`#logo {
+float: none;
+text-align:center;
+width:auto;
+}`
+
+---------------------------------------
