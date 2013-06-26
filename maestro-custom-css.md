@@ -140,3 +140,20 @@ width:auto;
 }`
 
 ---------------------------------------
+
+##### To make hover effect on slider images
+
+`.item:hover img.slider_zoom {
+-moz-transform: scale(1.2);
+-webkit-transform: scale(1.2);
+-o-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+}`
+
+`.item img.slider_zoom {
+-moz-transition: all 1.2s;
+-webkit-transition: all 1.2s;
+-o-transition: all 1.2s;
+transition: all 1.2s;
+}`
