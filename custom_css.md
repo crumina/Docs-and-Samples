@@ -890,3 +890,7 @@ margin-bottom: 10px;
 `.tiled-menu.drop li ul li a:hover {font-size: 14px; }`
 
 -------------------------------------------------------
+
+######To change the background color of exact slide in post slider
+
+`.wrap .item-1 .description {background: red !important;}`
