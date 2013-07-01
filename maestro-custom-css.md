@@ -157,3 +157,10 @@ transform: scale(1.2);
 -o-transition: all 1.2s;
 transition: all 1.2s;
 }`
+
+##### To move top panel triange to the right
+
+`#open-top-panel {
+position: absolute;
+bottom: -22px;
+left: 1000px;}`
