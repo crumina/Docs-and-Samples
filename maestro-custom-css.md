@@ -158,9 +158,21 @@ transform: scale(1.2);
 transition: all 1.2s;
 }`
 
+-------------------------------------------------------
+
 ##### To move top panel triange to the right
 
 `#open-top-panel {
 position: absolute;
 bottom: -22px;
 left: 1000px;}`
+
+--------------------------------------------------------
+
+##### To make each menu item of a particular color
+
+`#primary-navigation-61.has-submenu.current-menu-item>.menu-item-wrap {
+background-color: green;
+}`
+
+--------------------------------------------------
