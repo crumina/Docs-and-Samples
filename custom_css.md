@@ -891,6 +891,13 @@ margin-bottom: 10px;
 
 -------------------------------------------------------
 
-######To change the background color of exact slide in post slider
+#####To change the background color of exact slide in post slider
 
 `.wrap .item-1 .description {background: red !important;}`
+
+---------------------------------------------------------
+
+#####To make current menu item
+`.tiled-menu>li.current-menu-item>.menu-item-wrap>a{background:red !important}`
+
+-------------------------------------------------------------
