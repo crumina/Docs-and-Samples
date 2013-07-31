@@ -396,9 +396,7 @@ background: rgba(87,186,232,.87);
 
 #####To change the color of the submenu
 
-`.tiled-menu.drop li.menu-portfolio ul li a {
- background: #57bae8;
- }`
+`.tiled-menu.drop li.menu-home ul li { background: #FBB900 !important; }`
 
 ----------------------------------------------------
 
