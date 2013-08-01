@@ -891,7 +891,7 @@ margin-bottom: 10px;
 
 #####To change the background color of exact slide in post slider
 
-`.wrap .item-1 .description {background: red !important;}`
+`.wrap .item-1 .description {background-color: red !important;}`
 
 ---------------------------------------------------------
 
