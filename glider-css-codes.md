@@ -67,3 +67,12 @@ padding-top: 0;
 }`
 
 -----------------------------------
+
+#####Make search bar displayed on one line with social icons on the top right corner
+
+`#header .soc-head-icons {margin: 36px 70px 0 0; }`
+`#searchsubmit {
+top: 0;
+}`
+
+--------------------------------------
