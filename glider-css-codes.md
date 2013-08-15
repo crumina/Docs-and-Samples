@@ -76,3 +76,134 @@ top: 0;
 }`
 
 --------------------------------------
+
+#####Change font size of phone information in header
+
+`#header .phone { font-size: 20px; }`
+
+----------------------------------------
+
+#####Make stunning header background larger
+
+`#stuning-header { height: 200px; } #page-title { margin: 40px 0 20px; }`
+
+-----------------------------------------
+
+#####Align menu to the right
+
+`header .menu { width: 90%; float: right; }`
+
+---------------------------------
+
+#####Make the plus sign of the toggle not cut off
+
+`h4.wpb_toggle {
+padding-bottom: 10px;
+}`
+
+--------------------------------------
+
+#####Turn off the portfolio date that it was posted
+
+`time {
+display: none;
+}`
+
+-----------------------------------------
+
+#####Hide the "Previous Slide" and "Next Slide" in the tab/accordion
+
+`.wpb_tour_next_prev_nav a {
+display: none;
+}`
+
+-------------------------------------
+
+#####Change icon color in "Box: Features Block"
+
+`.feature-box.al-center .icon, .feature-box.al-left .icon, .feature-box.al-right .icon {color:green !important;}`
+
+--------------------------------------
+
+#####Change icon color in "Box: Features Block" on hover
+
+`.feature-box.al-center:hover .icon, .feature-box.al-left:hover .icon, .feature-box.al-right:hover .icon {color:red !important;}`
+
+-------------------------------
+
+#####Change the color of the social icons
+
+`.soc-head-icons a {color: red;
+}`
+`.soc-head-icons a:hover {color: green;
+}`
+
+-----------------------------------------
+
+#####Center the logo and menu
+
+`#logo {
+float: none;
+text-align: center;
+}`
+
+`#header .menu>li {
+float: none;
+text-align: center;
+display: inline-block;
+}`
+
+----------------------------------------
+
+#####Change the position of the Arrow Open Top Panel to the middel
+
+`#open-top-panel {
+left: 50%;
+margin-left: -52px;
+}`
+
+-----------------------------------
+
+#####Remove page title from all pages
+
+`#page-title {display: none; }`
+
+-----------------------------------
+
+#####Remove title from a particular page
+
+`.page-id-961 #page-title {display: none; }` /*Instead of the sample id, put id of your page*/
+
+--------------------------------------
+
+#####Make buttons "older" "newer" more visible
+
+`.page-nav .older, .page-nav .newer {
+color: #000000;
+}`
+
+-----------------------------------
+
+#####Make catalogue/shop image to be in centre
+
+`.prod-image-wrap {
+width: 100%;
+text-align: center;
+min-width: 280px;}`
+
+-------------------------------------
+
+#####Hide social icons from the modal box
+
+`.pp_social {display:none;}`
+
+---------------------------------------
+
+#####Part of the top panel becomes hidden behind the toolbar (also called the admin bar) and this cuts off the logo. This only happens on the BuddyPress pages.
+
+`body.logged-in {
+  padding-top: 30px;
+}`
+
+-------------------------------------
+
