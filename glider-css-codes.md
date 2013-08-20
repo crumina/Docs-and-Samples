@@ -207,3 +207,11 @@ min-width: 280px;}`
 
 -------------------------------------
 
+#####Change the hover color on language selector box
+
+`.lang-sel ul>li:hover a {
+    color: #fff;
+    background-color: yellow;
+}`
+
+--------------------------------------
