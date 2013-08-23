@@ -899,3 +899,15 @@ margin-bottom: 10px;
 `.tiled-menu>li.current-menu-item>.menu-item-wrap>a{background:red !important}`
 
 -------------------------------------------------------------
+
+#####Remove mouse over effect from slider images
+
+`.item:hover img {
+-moz-transform: none;
+-webkit-transform: none;
+-o-transform: none;
+-ms-transform: none;
+transform: none;
+}`
+
+---------------------------------------
