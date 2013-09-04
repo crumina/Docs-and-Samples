@@ -215,3 +215,21 @@ min-width: 280px;}`
 }`
 
 --------------------------------------
+
+#####Make menu items clickable
+
+`#header.horizontal #top-menu>ul>li>.menu-item-wrap>a {position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+padding-left: 54px;}`
+
+--------------------------------
+
+#####Change color of submenus
+
+`#header .menu>li>ul {background-color: #E1E188;}`
+`#header .menu>li>ul {border: none; box-shadow: none; -webkit-box-shadow: none; -moz-box-shadow: none; }`
+
+----------------------------------------
