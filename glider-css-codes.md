@@ -233,3 +233,9 @@ padding-left: 54px;}`
 `#header .menu>li>ul {border: none; box-shadow: none; -webkit-box-shadow: none; -moz-box-shadow: none; }`
 
 ----------------------------------------
+
+##### Fixed menu fix (when you are logged in, your navigation panel hides half of the fixed menu)
+
+`.logged-in .droped-navi.active {top: 27px !important;}`
+
+--------------------------------------------------------------------
