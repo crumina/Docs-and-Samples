@@ -239,3 +239,9 @@ padding-left: 54px;}`
 `.logged-in .droped-navi.active {top: 27px !important;}`
 
 --------------------------------------------------------------------
+
+##### To change the color of the menu icons
+
+`.menu-item-wrap:before {color:red;}`
+
+-------------------------------------------------------------
