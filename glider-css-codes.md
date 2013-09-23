@@ -245,3 +245,9 @@ padding-left: 54px;}`
 `.menu-item-wrap:before {color:red;}`
 
 -------------------------------------------------------------
+
+##### To change the color of the menu icons on hover
+
+`.menu-item-wrap:hover:before {color: red !important;}`
+
+----------------------------------------------
