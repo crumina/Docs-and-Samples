@@ -251,3 +251,7 @@ padding-left: 54px;}`
 `.menu-item-wrap:hover:before {color: red !important;}`
 
 ----------------------------------------------
+
+##### To change the current menu icon color
+
+` #primary-navigation-17.current-menu-item .menu-item-wrap:before {color: red !important;} `
