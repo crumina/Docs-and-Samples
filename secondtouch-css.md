@@ -42,6 +42,6 @@ background: #000000;/*or your value*/
 
 `#logo {
 float: left;
-padding: 20px 0 0 10%;
+padding: 20px 0 0 10%;}`
 
 -------------------------------------------
