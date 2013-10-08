@@ -45,3 +45,19 @@ float: left;
 padding: 20px 0 0 10%;}`
 
 -------------------------------------------
+
+#####Background color of social icons
+
+`.soc-icons a {
+background: #000000 !important;
+}'
+
+-----------------------------------------
+
+#####Background color of social icons on hover
+
+`.soc-icons a:hover {
+background: #FF0000 !important;
+}`
+
+------------------------------------
