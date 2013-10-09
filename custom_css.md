@@ -911,3 +911,10 @@ transform: none;
 }`
 
 ---------------------------------------
+
+#####Align cal to action button center
+
+`.call-to.al-right { text-align: center; }` 
+`.call-to.al-right .button { float: none; }`
+
+------------------------------------------
