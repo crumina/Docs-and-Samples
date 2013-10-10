@@ -61,3 +61,15 @@ background: #FF0000 !important;
 }`
 
 ------------------------------------
+
+#####Make font on inner page titles bolder and larger
+
+`h1.page-title { font-size: 25px; font-weight: 600; }`
+
+-----------------------------------
+
+#####Change font of the subtitles
+
+`.page-title-inner .subtitle { font-size: 25px; font-weight: 500; }`
+
+-----------------------------------
