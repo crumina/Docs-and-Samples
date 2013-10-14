@@ -73,3 +73,9 @@ background: #FF0000 !important;
 `.page-title-inner .subtitle { font-size: 25px; font-weight: 500; }`
 
 -----------------------------------
+
+#####Align price table text
+
+`.pricing-table .dop-text { padding: 15px 0 0 15px; }`
+
+---------------------------------
