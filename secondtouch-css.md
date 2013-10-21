@@ -96,3 +96,11 @@ background: #FF0000 !important;
     transform: none; }`
 
 --------------------------------
+
+#####Make map on Contacts page ful width
+
+`.map-holder {
+width: 100%;
+}`
+
+---------------------------------
