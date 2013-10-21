@@ -79,3 +79,20 @@ background: #FF0000 !important;
 `.pricing-table .dop-text { padding: 15px 0 0 15px; }`
 
 ---------------------------------
+
+#####Remove the white space between the images of the menu. Remove the effect on rollover
+
+`.main-menu-item { margin-left: 0;}`
+
+`.menu-tile:hover {
+    z-index: none;
+    -moz-transform: none;
+    /* Firefox */
+    -webkit-transform: none;
+    /* Safari and Chrome */
+    -o-transform: none;
+    /* Opera */
+    -ms-transform: none;
+    transform: none; }`
+
+--------------------------------
