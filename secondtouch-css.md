@@ -108,3 +108,11 @@ width: 100%;
 ######To change the active, inactive, hover colors for Accordion and Tabs in Visual Composer and Visual PAge Builder
 
 `http://support.crumina.net/index.php?/topic/1759-changing-tabs-and-accordion-colours/`
+
+---------------------------------------
+
+#####To remove breadcrumbs only from homepage
+
+`.home-page .breadcrumbs { display: none; }`
+
+------------------------------------
