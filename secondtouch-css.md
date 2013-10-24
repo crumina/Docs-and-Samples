@@ -116,3 +116,10 @@ width: 100%;
 `.home-page .breadcrumbs { display: none; }`
 
 ------------------------------------
+
+#####To change backgorund color and border of submenus
+
+`.sub-menu li {
+background: rgba(107,87,130, 0.9);
+border-bottom: 1px solid #FFDD00;
+}`
