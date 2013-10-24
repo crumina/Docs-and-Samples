@@ -123,3 +123,18 @@ width: 100%;
 background: rgba(107,87,130, 0.9);
 border-bottom: 1px solid #FFDD00;
 }`
+
+-------------------------------------------
+
+##### To change the font color of submenus:
+`.sub-menu a {
+color: #FFDD00;}`
+
+------------------------------------------
+
+##### To change hover effects of submenu:
+`.sub-menu a:hover {
+background: #400080;
+border-left: 2px solid #3AE2CE;}`
+
+-----------------------------------------
