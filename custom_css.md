@@ -912,9 +912,15 @@ transform: none;
 
 ---------------------------------------
 
-#####Align cal to action button center
+#####Align call to action button center
 
 `.call-to.al-right { text-align: center; }` 
 `.call-to.al-right .button { float: none; }`
+
+------------------------------------------
+
+#####To show only title in sliderr items on hover
+
+`.item:hover .description {bottom: -70% !important; }`
 
 ------------------------------------------
