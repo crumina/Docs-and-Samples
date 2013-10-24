@@ -138,3 +138,17 @@ background: #400080;
 border-left: 2px solid #3AE2CE;}`
 
 -----------------------------------------
+
+##### To remove login from the address top panel
+`#top-panel .login-header .links {
+display: none;
+}`
+
+----------------------------------------
+
+##### To remove language selector from address tp panel
+`#top-panel .lang-sel a {
+display: none;
+}`
+
+------------------------------------------------
