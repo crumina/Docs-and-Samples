@@ -255,3 +255,7 @@ padding-left: 54px;}`
 ##### To change the current menu icon color
 
 ` #primary-navigation-17.current-menu-item .menu-item-wrap:before {color: red !important;} `
+
+##### To change the icon of the element for another:
+
+`#panel-0-0-0 .widget-title .icon:before {font-family: 'moon' !important; content: "\e000" !important;}`
