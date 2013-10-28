@@ -152,3 +152,10 @@ display: none;
 }`
 
 ------------------------------------------------
+
+#####Make stunning-headers larger (shorter)
+
+`#stuning-header {height: 175px;}` 
+`.page-title-inner h1.page-title {height: 175px; }`
+
+----------------------------------------------
