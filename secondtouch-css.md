@@ -159,3 +159,11 @@ display: none;
 `.page-title-inner h1.page-title {height: 175px; }`
 
 ----------------------------------------------
+
+#####Remove "heart likes" from portfolio
+
+`.hover-box:hover .post-like {
+display: none;
+}`
+
+--------------------------------------
