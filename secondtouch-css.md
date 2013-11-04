@@ -171,6 +171,6 @@ display: none;
 #####Call to action module
 
 `.to-action-block .block-title {color: #ffffff; }`/*to change color of text*/    
-.to-action-block .button {color: #000000; background-color: red; box-shadow: 0 3px red;}`/*to change text color inside button and button background*/
+`.to-action-block .button {color: #000000; background-color: red; box-shadow: 0 3px red;}`/*to change text color inside button and button background*/
 
 -----------------------------------------
