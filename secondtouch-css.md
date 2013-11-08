@@ -174,3 +174,12 @@ display: none;
 `.to-action-block .button {color: #000000; background-color: red; box-shadow: 0 3px red;}`/*to change text color inside button and button background*/
 
 -----------------------------------------
+
+#####Change color of portfolio tabs
+
+`.tabs.horisontal dd a { background-color: #cccccc; }`
+
+`.tabs dd a {
+border-right: 1px solid #000000; }`
+
+------------------------------------
