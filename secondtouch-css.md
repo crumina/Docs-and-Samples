@@ -183,3 +183,31 @@ display: none;
 border-right: 1px solid #000000; }`
 
 ------------------------------------
+
+######Remove zoom from portfolio thumbnail
+
+`.entry-thumb:hover > img {
+transform: none;
+-ms-transform: none;
+-moz-transform: none;
+-webkit-transform: none;
+-o-transform: none;
+}`
+
+----------------------------------------
+######Remove zoom and link icons from portfolio thumbnail
+`.hover-box:hover {
+opacity: 0;
+background: none;
+}
+
+.hover-box .more-link {
+width: 100%;
+height: 100%;
+top: 0;
+margin-top: 0;
+left: 0;
+}`
+
+---------------------------------------
+
