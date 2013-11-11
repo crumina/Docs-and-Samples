@@ -924,3 +924,10 @@ transform: none;
 `.item:hover .description {bottom: -70% !important; }`
 
 ------------------------------------------
+
+#####Make unique background color for each slider box
+
+`.item-1 .description.disp { background-color: #cccccc !important; }`
+`.item-2 .description.disp { background-color: #ffffff !important; }`
+
+----------------------------------------
